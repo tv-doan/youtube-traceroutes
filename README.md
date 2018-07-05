@@ -9,10 +9,6 @@ September 2018 Issue
 
 ---
 
-Last updated: June 25, 2018
-
----  
-
 ### Vantage Points
 
 The dataset is collected from ~100 SamKnows probes:
