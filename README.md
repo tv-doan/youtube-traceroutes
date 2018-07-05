@@ -23,7 +23,7 @@ The dataset is collected from ~100 SamKnows probes:
 
 The raw dataset is available at:
 
-* Technical University of Munich, mediaTUM (TBD)
+* [Technical University of Munich, mediaTUM &rarr;](http://doi.org/10.14459/2018md1447027)
 
 It is stored as a sqlite3 database `youtube-may-2016-2018.db`. The schema of the tables can be found under [`./data/youtube-traceroute-schema.sql`](https://github.com/tv-doan/youtube-traceroutes/blob/master/data/youtube-traceroute-schema.sql)).
 This repository contains (most of) the required metadata to reproduce the results, see below for further instructions.
