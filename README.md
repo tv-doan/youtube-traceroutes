@@ -4,8 +4,8 @@ Trinh Viet Doan, Ljubica Pajevic, Vaibhav Bajpai, Jörg Ott
 Technical University of Munich
 
 IEEE Communications Magazine  
-Network Testing and Analytics Series  
-September 2018 Issue  
+
+Presented at MAT WG Meeting, RIPE 77, Amsterdam. [Slides &rarr;](http://home.in.tum.de/~doan/2018-ripe77-slides.pdf)
 
 ---
 
