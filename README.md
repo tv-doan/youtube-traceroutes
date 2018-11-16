@@ -1,9 +1,9 @@
-### Tracing the Path to YouTube − A Quantification of Path Lengths and Latencies towards Content Caches
+### Tracing the Path to YouTube − A Quantification of Path Lengths and Latencies Toward Content Caches
 
 Trinh Viet Doan, Ljubica Pajevic, Vaibhav Bajpai, Jörg Ott  
 Technical University of Munich
 
-IEEE Communications Magazine  
+IEEE Communications Magazine, November 2018. [Publication &rarr;](https://doi.org/10.1109/MCOM.2018.1800132) 
 
 Presented at MAT WG Meeting, RIPE 77, Amsterdam. [Slides &rarr;](http://home.in.tum.de/~doan/2018-ripe77-slides.pdf)
 
